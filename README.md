@@ -1,7 +1,7 @@
 # A propos de SpringBoard
 
 Springboard est un conteneur de personnalisation et de lancement d'un portail basé sur les composants ENT Core.
-Il s'agit d'un template à dupliquer pour créer son projet spécifique de portail motoriser par ENT Core. Les modules (dépendances) ENT Core utiles pour l'éxécution de votre springboard sont téléchargés depuis les dépôts Maven du projet. 
+Il s'agit d'un template à dupliquer pour créer son projet spécifique de portail motorisé par ENT Core. Les modules (dépendances) ENT Core utiles pour l'éxécution de votre springboard sont téléchargés depuis les dépôts Maven du projet. 
 
 # Notes d'utilisation
 
